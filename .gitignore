@@ -1,6 +1,2 @@
-#Ignore compiled Java bytecode
 *.class
-#Ignore temporary compiler argument files
 *.args
-*Mainn*
-*timer*
